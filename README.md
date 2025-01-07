@@ -1,12 +1,14 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+### NAME:DINESH KARTHIK R
+### REG NO:24900716
+### EXPERIMENT 6: IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFT REGISTER USING VERILOG HDL
 
-**DATE: 21/11/2024**
+### DATE: 21/11/2024
 
-**AIM:**
+### AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+### SOFTWARE REQUIRED:
 
 Quartus prime
 
@@ -27,7 +29,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 ![image](https://github.com/user-attachments/assets/5f6c5e0c-2196-491d-acdc-1ff5bc443fdd)
 
-**Procedure**
+### Procedure:
 
 1.Initialize the shift register to a known state (e.g., all zeros).
 
@@ -39,7 +41,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 5.Repeat steps 2-4 for each bit you want to input and shift
 
-**PROGRAM**
+### PROGRAM:
 
 Program for flipflops and verify its truth table in quartus using Verilog programming.
 
@@ -62,16 +64,16 @@ end
 endmodule
 ```
 
-**RTL DIAGRAM**
+### RTL DIAGRAM:
 
 ![image](https://github.com/user-attachments/assets/33f297d9-6b13-47cd-a15e-6f6eda4174cd)
 
 
-**TIMING WAVEFORM**
+### TIMING WAVEFORM:
 
 ![image](https://github.com/user-attachments/assets/35e2eadf-a06d-4cea-a735-088ece06e41e)
 
-**RESULT**
+### RESULT:
 
  SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
 
